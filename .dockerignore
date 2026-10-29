@@ -1,0 +1,11 @@
+.git
+.gitignore
+venv
+.venv
+.env
+__pycache__
+*.pyc
+.DS_Store
+class_dataset.csv
+load_intake.py
+schema.sql
